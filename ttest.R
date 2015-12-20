@@ -1,4 +1,5 @@
 # Equation source: http://www.ruf.rice.edu/~bioslabs/tools/stats/ttest.html
+# Alternative definition of df: http://trendingsideways.com/index.php/the-p-value-formula-testing-your-hypothesis/
 # sample1
 n1 <- 100
 x1 <- 1
